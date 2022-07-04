@@ -1,0 +1,9 @@
+body {background-color:white;font-family:arial;color:black;width:300;padding:20}
+h1{color:grey;font-family:verdana}
+.maindiv {
+    background-color:white;
+    font-family:black;
+    width:"300";
+    padding:"25";
+    align-items: center;
+}
